@@ -1,0 +1,7 @@
+eric@eric-All-Series:~/Desktop/test$ bzip2 -9v alice_small.txt 
+  alice_small.txt:  3.064:1,  2.611 bits/byte, 67.36% saved, 54554 in, 17805 out.
+eric@eric-All-Series:~/Desktop/test$ bzip2 -9v comped2.txt 
+  comped2.txt: 11.371:1,  0.704 bits/byte, 91.21% saved, 240080 in, 21114 out.
+eric@eric-All-Series:~/Desktop/test$ 
+
+

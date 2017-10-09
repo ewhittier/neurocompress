@@ -1,0 +1,8 @@
+eric@eric-All-Series:~/neurocomp/saves/3$ bzip2 -9v alice_small.txt 
+  alice_small.txt:  3.064:1,  2.611 bits/byte, 67.36% saved, 54554 in, 17805 out.
+eric@eric-All-Series:~/neurocomp/saves/3$ bzip2 -9v comped2.txt 
+  comped2.txt:  7.018:1,  1.140 bits/byte, 85.75% saved, 91754 in, 13074 out.
+eric@eric-All-Series:~/neurocomp/saves/3$ 
+
+
+
